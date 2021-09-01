@@ -36,7 +36,7 @@ public class DataStreamTest implements Serializable {
 
     @Before
     public void init() {
-        dataStream = StreamBuilder.dataStream("test_namespace", "graph_pipeline");
+        dataStream = StreamBuilder.dataStream("ssss", "graph_pipeline");
     }
 
     @Test
